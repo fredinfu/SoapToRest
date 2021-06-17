@@ -1,0 +1,7 @@
+﻿//WS
+
+https://documenter.getpostman.com/view/8854915/Szf26WHn
+
+http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso
+
+http://www.dneonline.com/calculator.asmx
